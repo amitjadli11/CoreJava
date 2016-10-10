@@ -10,5 +10,6 @@ public class Addition {
 		System.out.println("the sum of two number is="+c);
 		System.out.println("the difference between two numbers is="+(a-b));
 		System.out.println("a new commit is done in project");
+		System.out.println("a new second commit is done in project");
 	}
 }
