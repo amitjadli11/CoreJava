@@ -8,5 +8,6 @@ public class Addition {
 		int b=3;
 		int c=a+b;
 		System.out.println("the sum of two number is="+c);
+		System.out.println("the difference between two numbers is="+(a-b));
 	}
 }
