@@ -9,5 +9,6 @@ public class Addition {
 		int c=a+b;
 		System.out.println("the sum of two number is="+c);
 		System.out.println("the difference between two numbers is="+(a-b));
+		System.out.println("a new commit is done in project");
 	}
 }
